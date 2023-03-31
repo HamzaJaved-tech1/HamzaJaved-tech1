@@ -4,7 +4,7 @@ Hi 👋 My name is Hamza Javed
 MERN Stack Developer
 --------------------
 
-2+ years of experience in web development. working with React at the frontend and NodeJS at the backend.
+3+ years of experience in web development. working with React at the frontend and NodeJS at the backend.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [rhamzajaved1@gmail.com](mailto:rhamzajaved1@gmail.com)
