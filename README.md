@@ -1,14 +1,13 @@
 Hi 👋 My name is Hamza Javed
 ============================
 
-MERN Stack Developer
+Full Stack Developer
 --------------------
 
-3+ years of experience in web development. working with React at the frontend and NodeJS at the backend.
+3+ Years of experience in web development. Working with React, Next.js and React Native at the frontend and NodeJS at the backend.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [rhamzajaved1@gmail.com](mailto:rhamzajaved1@gmail.com)
-* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on open source projects
 
 ### Skills
