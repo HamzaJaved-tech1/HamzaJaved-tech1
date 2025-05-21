@@ -4,7 +4,7 @@ Hi 👋 My name is Hamza Javed
 Full Stack Developer
 --------------------
 
-4+ Years of experience in web development. Working with React, Next.js and React Native at the frontend and NodeJS at the backend.
+4+ Years of experience in web and mobile development. Working with React, Next.js and React Native at the frontend and NodeJS, Nest.js at the backend.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [rhamzajaved1@gmail.com](mailto:rhamzajaved1@gmail.com)
